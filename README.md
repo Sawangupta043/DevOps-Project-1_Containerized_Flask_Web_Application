@@ -18,12 +18,11 @@ A clean, production-ready implementation demonstrating foundational DevOps pract
 │   ├── index.html       # Landing page template
 │   └── about.html       # Secondary description page template
 ├── Dockerfile           # Automated container build instructions
-└── main.py              # Application entry point & web routing engine .
-text'''
+└── main.py              # Application entry point & web routing engine
 
 ---
 
-## 🛠️ Code Architecture
+'''## 🛠️ Code Architecture
 
 ### 1. Application Routing (`main.py`)
 The application defines three primary endpoints bound to open interfaces:
