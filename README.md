@@ -20,6 +20,8 @@ A clean, production-ready implementation demonstrating foundational DevOps pract
 ├── Dockerfile           # Automated container build instructions
 └── main.py              # Application entry point & web routing engine
 
+---
+
 ## 🛠️ Code Architecture
 
 ### 1. Application Routing (`main.py`)
@@ -37,6 +39,8 @@ FROM redhat/ubi8:latest
 RUN dnf -y install python3
 RUN pip3 install flask
 CMD ["python3" , "main.py"]
+
+---
 
 ## ⚙️ Deployment Instructions
 
