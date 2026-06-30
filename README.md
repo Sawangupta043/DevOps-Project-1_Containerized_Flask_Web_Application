@@ -19,6 +19,7 @@ A clean, production-ready implementation demonstrating foundational DevOps pract
 │   └── about.html       # Secondary description page template
 ├── Dockerfile           # Automated container build instructions
 └── main.py              # Application entry point & web routing engine
+'''
 
 ---
 
